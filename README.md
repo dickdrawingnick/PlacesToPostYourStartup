@@ -62,6 +62,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.siliconallee.com/
 * http://www.en.startit.rs/
 * http://www.en.startupbusiness.it/
+
 * http://www.blogs.wsj.com/tech-europe/
 * http://www.rudebaguette.com/
 * http://www.venturevillage.eu/
@@ -93,3 +94,4 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://earlyclaim.com/
 * http://www.pressfriendly.com/findareporter/techcrunch
 * http://www.cubecamp.com
+* http://plaxant.com
